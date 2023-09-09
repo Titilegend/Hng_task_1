@@ -1,11 +1,11 @@
 # Hng_task_1
-This  Android app displays your Slack name and profile picture, allowing users to open your GitHub profile within the app.
+This  Android app displays my Slack name and profile picture, allowing users to open the GitHub profile within the app.
 
 ## Features
 
-- Prominent display of my Slack name.
-- Integration of my Slack display picture.
-- "Open GitHub" button to view my GitHub profile.
+- Prominent display of the Slack name.
+- Integration of the Slack display picture.
+- "Open GitHub" button to view the GitHub profile.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ This  Android app displays your Slack name and profile picture, allowing users t
 
 1. Launch the app.
 
-2. Slack name and display picture are displayed on the main screen.
+2. The Slack name and display picture are displayed on the main screen.
 
 3. Click the "Open GitHub" button to view your GitHub profile.
 
